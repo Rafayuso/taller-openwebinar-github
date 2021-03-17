@@ -13,8 +13,8 @@ Para poder seguir este taller, deberás tener un conocimiento básico de inform�
 ## Información básica acerca de este taller
 
 * Profesora: Raquel Campuzano Godoy
-* Twitter: @raquelcampuzano
-* LinkedIn: https://www.linkedin.com/in/raquelcampuzanogodoy/
+*  Twitter: @raquelcampuzano
+*  LinkedIn: https://www.linkedin.com/in/raquelcampuzanogodoy/
 
 ### Recursos adicionales
 
